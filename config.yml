@@ -23,12 +23,9 @@ params:
   meta_description: >-
     This status page provides updated information about our systems normal
     operation, incidents that may happen and their resolution.
-  shortDateFormat: 'Jan 2 15:04'
+  shortDateFormat: '2 Jan 15:04'
   systems:
     - description: Our company public facing website
       link: 'https://resk-u.ch'
       name: Website
-    - description: Our company customer support site
-      link: 'https://support.example.com/'
-      name: Helpdesk
   timezoneString: Europe/Zurich
