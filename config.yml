@@ -26,7 +26,7 @@ params:
   shortDateFormat: 'Jan 2 15:04'
   systems:
     - description: Our company public facing website
-      link: 'https://www.example.com/'
+      link: 'https://resk-u.ch'
       name: Website
     - description: Our company customer support site
       link: 'https://support.example.com/'
